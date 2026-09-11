@@ -1,0 +1,9 @@
+.DS_Store
+*.dSYM/
+*.o
+*.exe
+*.out
+exercicio[0-9]
+exercício[0-9]
+Exercício[0-9]
+cmaismais
